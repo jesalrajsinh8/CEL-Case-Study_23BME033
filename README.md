@@ -1,4 +1,7 @@
 # CEL-Case-Study_23BME033
+Author Name: Jesalrajsinh Jadeja
+Roll no.: 23BME033
+Tool used: MATLAB
 Project Overview
 
 This repository presents my approach to determining the unknown support reactions of a simply supported beam subjected to a uniformly varying load (UVL) whose maximum intensity varies with time. The purpose of this case study was not only to compute the numerical values of the time-dependent reactions but also to understand how classical structural analysis methods can be translated into a computational framework using MATLAB.
@@ -128,3 +131,4 @@ Purpose of This Repository
 The objective of this repository is to document the complete analytical and computational workflow, beginning from theoretical derivation of equilibrium equations to matrix-based numerical implementation in MATLAB.
 
 This project reflects a practical learning approach where structural analysis principles are combined with programming tools to solve engineering problems efficiently and systematically.
+
